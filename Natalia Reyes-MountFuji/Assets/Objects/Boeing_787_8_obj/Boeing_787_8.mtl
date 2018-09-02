@@ -1,0 +1,23 @@
+# Blender MTL File: 'B_787_8.blend'
+# Material Count: 2
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Barnabás\Documents\daves\airliners\texture.png
+
+newmtl texture
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.632075 0.632075 0.632075
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Barnabás\Documents\daves\airliners\texture.png
+map_Ka C:\\Users\\Barnabás\\Documents\\daves\\airliners\\texture.png
+map_Ke C:\\Users\\Barnabás\\Documents\\daves\\airliners\\texture_ref.png
